@@ -1,0 +1,15 @@
+/*импорт шрифта*/
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap");
+
+/* стиль основного блока страницы*/
+body {
+  background-color: rgb(104, 139, 139);
+  font-family: "Oswald", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: black;
+
+  -webkit-overflow-scrolling: touch;
+
+  margin-top: 70px;
+}
